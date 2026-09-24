@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Brands Watch — Global Brand News Wire</title>
+<meta name="description" content="A daily wire of news, moves, and signals from the world's biggest brands.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 fill=%22%230E1420%22/><text x=%2250%22 y=%2268%22 font-size=%2260%22 text-anchor=%22middle%22 fill=%22%23C9A24B%22 font-family=%22Georgia,serif%22>B</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="ticker" aria-label="Latest headlines ticker">
+  <div class="ticker__track" id="tickerTrack"></div>
+</div>
+
+<header class="masthead">
+  <div class="masthead__inner">
+    <div class="masthead__top">
+      <span class="masthead__date" id="todayDate"></span>
+      <span class="masthead__edition">Daily Edition · Global Brands Wire</span>
+    </div>
+    <h1 class="masthead__title">BRANDS <span>WATCH</span></h1>
+    <p class="masthead__tagline">Tracking what the world's brands say, ship, and stumble into — every day.</p>
+    <nav class="masthead__nav" id="categoryNav" aria-label="Categories">
+      <button class="nav__item is-active" data-cat="all">All</button>
+      <button class="nav__item" data-cat="Tech">Tech</button>
+      <button class="nav__item" data-cat="Fashion">Fashion</button>
+      <button class="nav__item" data-cat="Automotive">Automotive</button>
+      <button class="nav__item" data-cat="Food & Beverage">Food &amp; Beverage</button>
+      <button class="nav__item" data-cat="Retail">Retail</button>
+      <button class="nav__item" data-cat="Finance">Finance</button>
+    </nav>
+
+    <div class="refresh-bar">
+      <label for="refreshInterval">Refresh</label>
+      <select id="refreshInterval">
+        <option value="0">Manual</option>
+        <option value="5">Every 5 min</option>
+        <option value="15">Every 15 min</option>
+        <option value="30">Every 30 min</option>
+        <option value="60">Every 60 min</option>
+      </select>
+      <button id="refreshNowBtn" type="button">Refresh now</button>
+      <span class="refresh-bar__status" id="refreshStatus"></span>
+    </div>
+  </div>
+</header>
+
+<main class="layout">
+  <section class="feed" id="feed" aria-live="polite">
+    <!-- stories injected by js/script.js -->
+  </section>
+
+  <aside class="sidebar">
+    <div class="panel">
+      <h2 class="panel__title">Movers Today</h2>
+      <ul class="movers" id="moversList"></ul>
+    </div>
+
+    <div class="panel">
+      <h2 class="panel__title">Watchlist</h2>
+      <p class="panel__hint">Brands currently pinned for tracking.</p>
+      <ul class="watchlist" id="watchlistList"></ul>
+      <form class="watchlist__form" id="watchlistForm">
+        <input type="text" id="watchlistInput" placeholder="Add a brand…" aria-label="Add a brand to watchlist">
+        <button type="submit">Add</button>
+      </form>
+    </div>
+
+    <div class="panel panel--signup">
+      <h2 class="panel__title">Morning Brief</h2>
+      <p class="panel__hint">One email, every morning, before the market opens.</p>
+      <form class="signup" id="signupForm">
+        <input type="email" id="signupEmail" placeholder="you@company.com" required aria-label="Email address">
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="signup__note" id="signupNote"></p>
+    </div>
+  </aside>
+</main>
+
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <p>Brands Watch is an independent news wire. Every refresh covers at least 50 of the world's top brands. Story data currently ships as a static sample — see <code>data/stories.json</code> and the README for wiring a live feed.</p>
+    <p>&copy; <span id="year"></span> Brands Watch.</p>
+  </div>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "1",
+    "brand": "Apple",
+    "category": "Tech",
+    "headline": "Apple partners with a startup on store",
+    "summary": "The company says the move reflects shifting demand and positions Apple for the next phase of growth in its tech business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/apple-1",
+    "timestamp": "2026-09-24T09:00:00Z"
+  },
+  {
+    "id": "2",
+    "brand": "Microsoft",
+    "category": "Tech",
+    "headline": "Microsoft opens a flagship supply chain location in Austin",
+    "summary": "The company says the move reflects shifting demand and positions Microsoft for the next phase of growth in its tech business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/microsoft-2",
+    "timestamp": "2026-09-24T08:49:00Z"
+  },
+  {
+    "id": "3",
+    "brand": "Google",
+    "category": "Tech",
+    "headline": "Google cuts prices on select retail lines",
+    "summary": "The company says the move reflects shifting demand and positions Google for the next phase of growth in its tech business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/google-3",
+    "timestamp": "2026-09-24T08:38:00Z"
+  },
+  {
+    "id": "4",
+    "brand": "Amazon",
+    "category": "Retail",
+    "headline": "Amazon expands store operations in Singapore",
+    "summary": "The company says the move reflects shifting demand and positions Amazon for the next phase of growth in its retail business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/amazon-4",
+    "timestamp": "2026-09-24T08:27:00Z"
+  },
+  {
+    "id": "5",
+    "brand": "Samsung",
+    "category": "Tech",
+    "headline": "Samsung recalls a batch of retail over safety concerns",
+    "summary": "The company says the move reflects shifting demand and positions Samsung for the next phase of growth in its tech business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/samsung-5",
+    "timestamp": "2026-09-24T08:16:00Z"
+  },
+  {
+    "id": "6",
+    "brand": "Meta",
+    "category": "Tech",
+    "headline": "Meta unveils updated marketing strategy",
+    "summary": "The company says the move reflects shifting demand and positions Meta for the next phase of growth in its tech business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/meta-6",
+    "timestamp": "2026-09-24T08:05:00Z"
+  },
+  {
+    "id": "7",
+    "brand": "Nvidia",
+    "category": "Tech",
+    "headline": "Nvidia reworks its retail around a new platform",
+    "summary": "The company says the move reflects shifting demand and positions Nvidia for the next phase of growth in its tech business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/nvidia-7",
+    "timestamp": "2026-09-24T07:54:00Z"
+  },
+  {
+    "id": "8",
+    "brand": "Sony",
+    "category": "Tech",
+    "headline": "Sony reworks its store around a new format",
+    "summary": "The company says the move reflects shifting demand and positions Sony for the next phase of growth in its tech business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/sony-8",
+    "timestamp": "2026-09-24T07:43:00Z"
+  },
+  {
+    "id": "9",
+    "brand": "IBM",
+    "category": "Tech",
+    "headline": "IBM reworks its store around a new material",
+    "summary": "The company says the move reflects shifting demand and positions IBM for the next phase of growth in its tech business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/ibm-9",
+    "timestamp": "2026-09-24T07:32:00Z"
+  },
+  {
+    "id": "10",
+    "brand": "Intel",
+    "category": "Tech",
+    "headline": "Intel reworks its logistics around a new partnership",
+    "summary": "The company says the move reflects shifting demand and positions Intel for the next phase of growth in its tech business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/intel-10",
+    "timestamp": "2026-09-24T07:21:00Z"
+  },
+  {
+    "id": "11",
+    "brand": "Dell",
+    "category": "Tech",
+    "headline": "Dell partners with a startup on manufacturing",
+    "summary": "The company says the move reflects shifting demand and positions Dell for the next phase of growth in its tech business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/dell-11",
+    "timestamp": "2026-09-24T07:10:00Z"
+  },
+  {
+    "id": "12",
+    "brand": "HP",
+    "category": "Tech",
+    "headline": "HP recalls a batch of logistics over safety concerns",
+    "summary": "The company says the move reflects shifting demand and positions HP for the next phase of growth in its tech business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/hp-12",
+    "timestamp": "2026-09-24T06:59:00Z"
+  },
+  {
+    "id": "13",
+    "brand": "Nike",
+    "category": "Fashion",
+    "headline": "Nike expands product operations in Nairobi",
+    "summary": "The company says the move reflects shifting demand and positions Nike for the next phase of growth in its fashion business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/nike-13",
+    "timestamp": "2026-09-24T06:48:00Z"
+  },
+  {
+    "id": "14",
+    "brand": "Adidas",
+    "category": "Fashion",
+    "headline": "Adidas faces scrutiny over logistics practices",
+    "summary": "The company says the move reflects shifting demand and positions Adidas for the next phase of growth in its fashion business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/adidas-14",
+    "timestamp": "2026-09-24T06:37:00Z"
+  },
+  {
+    "id": "15",
+    "brand": "Zara",
+    "category": "Fashion",
+    "headline": "Zara faces scrutiny over product practices",
+    "summary": "The company says the move reflects shifting demand and positions Zara for the next phase of growth in its fashion business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/zara-15",
+    "timestamp": "2026-09-24T06:26:00Z"
+  },
+  {
+    "id": "16",
+    "brand": "H&M",
+    "category": "Fashion",
+    "headline": "H&M recalls a batch of retail over safety concerns",
+    "summary": "The company says the move reflects shifting demand and positions H&M for the next phase of growth in its fashion business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/handm-16",
+    "timestamp": "2026-09-24T06:15:00Z"
+  },
+  {
+    "id": "17",
+    "brand": "Gucci",
+    "category": "Fashion",
+    "headline": "Gucci faces scrutiny over manufacturing practices",
+    "summary": "The company says the move reflects shifting demand and positions Gucci for the next phase of growth in its fashion business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/gucci-17",
+    "timestamp": "2026-09-24T06:04:00Z"
+  },
+  {
+    "id": "18",
+    "brand": "Louis Vuitton",
+    "category": "Fashion",
+    "headline": "Louis Vuitton cuts prices on select packaging lines",
+    "summary": "The company says the move reflects shifting demand and positions Louis Vuitton for the next phase of growth in its fashion business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/louis-vuitton-18",
+    "timestamp": "2026-09-24T05:53:00Z"
+  },
+  {
+    "id": "19",
+    "brand": "Chanel",
+    "category": "Fashion",
+    "headline": "Chanel cuts prices on select supply chain lines",
+    "summary": "The company says the move reflects shifting demand and positions Chanel for the next phase of growth in its fashion business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/chanel-19",
+    "timestamp": "2026-09-24T05:42:00Z"
+  },
+  {
+    "id": "20",
+    "brand": "Uniqlo",
+    "category": "Fashion",
+    "headline": "Uniqlo faces scrutiny over supply chain practices",
+    "summary": "The company says the move reflects shifting demand and positions Uniqlo for the next phase of growth in its fashion business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/uniqlo-20",
+    "timestamp": "2026-09-24T05:31:00Z"
+  },
+  {
+    "id": "21",
+    "brand": "Toyota",
+    "category": "Automotive",
+    "headline": "Toyota launches a sustainability push tied to manufacturing",
+    "summary": "The company says the move reflects shifting demand and positions Toyota for the next phase of growth in its automotive business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/toyota-21",
+    "timestamp": "2026-09-24T05:20:00Z"
+  },
+  {
+    "id": "22",
+    "brand": "Volkswagen",
+    "category": "Automotive",
+    "headline": "Volkswagen recalls a batch of product over safety concerns",
+    "summary": "The company says the move reflects shifting demand and positions Volkswagen for the next phase of growth in its automotive business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/volkswagen-22",
+    "timestamp": "2026-09-24T05:09:00Z"
+  },
+  {
+    "id": "23",
+    "brand": "Ford",
+    "category": "Automotive",
+    "headline": "Ford reports stronger than expected logistics figures",
+    "summary": "The company says the move reflects shifting demand and positions Ford for the next phase of growth in its automotive business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/ford-23",
+    "timestamp": "2026-09-24T04:58:00Z"
+  },
+  {
+    "id": "24",
+    "brand": "Tesla",
+    "category": "Automotive",
+    "headline": "Tesla launches a sustainability push tied to manufacturing",
+    "summary": "The company says the move reflects shifting demand and positions Tesla for the next phase of growth in its automotive business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/tesla-24",
+    "timestamp": "2026-09-24T04:47:00Z"
+  },
+  {
+    "id": "25",
+    "brand": "BMW",
+    "category": "Automotive",
+    "headline": "BMW unveils updated manufacturing strategy",
+    "summary": "The company says the move reflects shifting demand and positions BMW for the next phase of growth in its automotive business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/bmw-25",
+    "timestamp": "2026-09-24T04:36:00Z"
+  },
+  {
+    "id": "26",
+    "brand": "Mercedes-Benz",
+    "category": "Automotive",
+    "headline": "Mercedes-Benz partners with a startup on product",
+    "summary": "The company says the move reflects shifting demand and positions Mercedes-Benz for the next phase of growth in its automotive business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/mercedes-benz-26",
+    "timestamp": "2026-09-24T04:25:00Z"
+  },
+  {
+    "id": "27",
+    "brand": "Honda",
+    "category": "Automotive",
+    "headline": "Honda faces scrutiny over logistics practices",
+    "summary": "The company says the move reflects shifting demand and positions Honda for the next phase of growth in its automotive business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/honda-27",
+    "timestamp": "2026-09-24T04:14:00Z"
+  },
+  {
+    "id": "28",
+    "brand": "Hyundai",
+    "category": "Automotive",
+    "headline": "Hyundai recalls a batch of store over safety concerns",
+    "summary": "The company says the move reflects shifting demand and positions Hyundai for the next phase of growth in its automotive business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/hyundai-28",
+    "timestamp": "2026-09-24T04:03:00Z"
+  },
+  {
+    "id": "29",
+    "brand": "General Motors",
+    "category": "Automotive",
+    "headline": "General Motors reports stronger than expected logistics figures",
+    "summary": "The company says the move reflects shifting demand and positions General Motors for the next phase of growth in its automotive business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/general-motors-29",
+    "timestamp": "2026-09-24T03:52:00Z"
+  },
+  {
+    "id": "30",
+    "brand": "Porsche",
+    "category": "Automotive",
+    "headline": "Porsche opens a flagship marketing location in Seoul",
+    "summary": "The company says the move reflects shifting demand and positions Porsche for the next phase of growth in its automotive business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/porsche-30",
+    "timestamp": "2026-09-24T03:41:00Z"
+  },
+  {
+    "id": "31",
+    "brand": "Coca-Cola",
+    "category": "Food & Beverage",
+    "headline": "Coca-Cola launches a sustainability push tied to retail",
+    "summary": "The company says the move reflects shifting demand and positions Coca-Cola for the next phase of growth in its food & beverage business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/coca-cola-31",
+    "timestamp": "2026-09-24T03:30:00Z"
+  },
+  {
+    "id": "32",
+    "brand": "PepsiCo",
+    "category": "Food & Beverage",
+    "headline": "PepsiCo cuts prices on select manufacturing lines",
+    "summary": "The company says the move reflects shifting demand and positions PepsiCo for the next phase of growth in its food & beverage business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/pepsico-32",
+    "timestamp": "2026-09-24T03:19:00Z"
+  },
+  {
+    "id": "33",
+    "brand": "Starbucks",
+    "category": "Food & Beverage",
+    "headline": "Starbucks faces scrutiny over store practices",
+    "summary": "The company says the move reflects shifting demand and positions Starbucks for the next phase of growth in its food & beverage business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/starbucks-33",
+    "timestamp": "2026-09-24T03:08:00Z"
+  },
+  {
+    "id": "34",
+    "brand": "McDonald's",
+    "category": "Food & Beverage",
+    "headline": "McDonald's expands manufacturing operations in Singapore",
+    "summary": "The company says the move reflects shifting demand and positions McDonald's for the next phase of growth in its food & beverage business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/mcdonalds-34",
+    "timestamp": "2026-09-24T02:57:00Z"
+  },
+  {
+    "id": "35",
+    "brand": "Nestle",
+    "category": "Food & Beverage",
+    "headline": "Nestle reports stronger than expected supply chain figures",
+    "summary": "The company says the move reflects shifting demand and positions Nestle for the next phase of growth in its food & beverage business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/nestle-35",
+    "timestamp": "2026-09-24T02:46:00Z"
+  },
+  {
+    "id": "36",
+    "brand": "KFC",
+    "category": "Food & Beverage",
+    "headline": "KFC launches a sustainability push tied to marketing",
+    "summary": "The company says the move reflects shifting demand and positions KFC for the next phase of growth in its food & beverage business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/kfc-36",
+    "timestamp": "2026-09-24T02:35:00Z"
+  },
+  {
+    "id": "37",
+    "brand": "Heineken",
+    "category": "Food & Beverage",
+    "headline": "Heineken unveils updated packaging strategy",
+    "summary": "The company says the move reflects shifting demand and positions Heineken for the next phase of growth in its food & beverage business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/heineken-37",
+    "timestamp": "2026-09-24T02:24:00Z"
+  },
+  {
+    "id": "38",
+    "brand": "Danone",
+    "category": "Food & Beverage",
+    "headline": "Danone expands packaging operations in Seoul",
+    "summary": "The company says the move reflects shifting demand and positions Danone for the next phase of growth in its food & beverage business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/danone-38",
+    "timestamp": "2026-09-24T02:13:00Z"
+  },
+  {
+    "id": "39",
+    "brand": "Unilever",
+    "category": "Food & Beverage",
+    "headline": "Unilever faces scrutiny over product practices",
+    "summary": "The company says the move reflects shifting demand and positions Unilever for the next phase of growth in its food & beverage business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/unilever-39",
+    "timestamp": "2026-09-24T02:02:00Z"
+  },
+  {
+    "id": "40",
+    "brand": "Red Bull",
+    "category": "Food & Beverage",
+    "headline": "Red Bull cuts prices on select retail lines",
+    "summary": "The company says the move reflects shifting demand and positions Red Bull for the next phase of growth in its food & beverage business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/red-bull-40",
+    "timestamp": "2026-09-24T01:51:00Z"
+  },
+  {
+    "id": "41",
+    "brand": "Walmart",
+    "category": "Retail",
+    "headline": "Walmart reworks its retail around a new material",
+    "summary": "The company says the move reflects shifting demand and positions Walmart for the next phase of growth in its retail business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/walmart-41",
+    "timestamp": "2026-09-24T01:40:00Z"
+  },
+  {
+    "id": "42",
+    "brand": "IKEA",
+    "category": "Retail",
+    "headline": "IKEA recalls a batch of supply chain over safety concerns",
+    "summary": "The company says the move reflects shifting demand and positions IKEA for the next phase of growth in its retail business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/ikea-42",
+    "timestamp": "2026-09-24T01:29:00Z"
+  },
+  {
+    "id": "43",
+    "brand": "Target",
+    "category": "Retail",
+    "headline": "Target faces scrutiny over logistics practices",
+    "summary": "The company says the move reflects shifting demand and positions Target for the next phase of growth in its retail business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/target-43",
+    "timestamp": "2026-09-24T01:18:00Z"
+  },
+  {
+    "id": "44",
+    "brand": "Costco",
+    "category": "Retail",
+    "headline": "Costco reworks its marketing around a new material",
+    "summary": "The company says the move reflects shifting demand and positions Costco for the next phase of growth in its retail business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/costco-44",
+    "timestamp": "2026-09-24T01:07:00Z"
+  },
+  {
+    "id": "45",
+    "brand": "Alibaba",
+    "category": "Retail",
+    "headline": "Alibaba faces scrutiny over product practices",
+    "summary": "The company says the move reflects shifting demand and positions Alibaba for the next phase of growth in its retail business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/alibaba-45",
+    "timestamp": "2026-09-24T00:56:00Z"
+  },
+  {
+    "id": "46",
+    "brand": "Carrefour",
+    "category": "Retail",
+    "headline": "Carrefour launches a sustainability push tied to store",
+    "summary": "The company says the move reflects shifting demand and positions Carrefour for the next phase of growth in its retail business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/carrefour-46",
+    "timestamp": "2026-09-24T00:45:00Z"
+  },
+  {
+    "id": "47",
+    "brand": "Home Depot",
+    "category": "Retail",
+    "headline": "Home Depot unveils updated supply chain strategy",
+    "summary": "The company says the move reflects shifting demand and positions Home Depot for the next phase of growth in its retail business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/home-depot-47",
+    "timestamp": "2026-09-24T00:34:00Z"
+  },
+  {
+    "id": "48",
+    "brand": "Visa",
+    "category": "Finance",
+    "headline": "Visa recalls a batch of supply chain over safety concerns",
+    "summary": "The company says the move reflects shifting demand and positions Visa for the next phase of growth in its finance business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/visa-48",
+    "timestamp": "2026-09-24T00:23:00Z"
+  },
+  {
+    "id": "49",
+    "brand": "Mastercard",
+    "category": "Finance",
+    "headline": "Mastercard partners with a startup on manufacturing",
+    "summary": "The company says the move reflects shifting demand and positions Mastercard for the next phase of growth in its finance business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/mastercard-49",
+    "timestamp": "2026-09-24T00:12:00Z"
+  },
+  {
+    "id": "50",
+    "brand": "PayPal",
+    "category": "Finance",
+    "headline": "PayPal cuts prices on select logistics lines",
+    "summary": "The company says the move reflects shifting demand and positions PayPal for the next phase of growth in its finance business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/paypal-50",
+    "timestamp": "2026-09-24T00:01:00Z"
+  },
+  {
+    "id": "51",
+    "brand": "American Express",
+    "category": "Finance",
+    "headline": "American Express reports stronger than expected manufacturing figures",
+    "summary": "The company says the move reflects shifting demand and positions American Express for the next phase of growth in its finance business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/american-express-51",
+    "timestamp": "2026-09-23T23:50:00Z"
+  },
+  {
+    "id": "52",
+    "brand": "Goldman Sachs",
+    "category": "Finance",
+    "headline": "Goldman Sachs opens a flagship product location in S\u00e3o Paulo",
+    "summary": "The company says the move reflects shifting demand and positions Goldman Sachs for the next phase of growth in its finance business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/goldman-sachs-52",
+    "timestamp": "2026-09-23T23:39:00Z"
+  },
+  {
+    "id": "53",
+    "brand": "JPMorgan Chase",
+    "category": "Finance",
+    "headline": "JPMorgan Chase cuts prices on select supply chain lines",
+    "summary": "The company says the move reflects shifting demand and positions JPMorgan Chase for the next phase of growth in its finance business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/jpmorgan-chase-53",
+    "timestamp": "2026-09-23T23:28:00Z"
+  },
+  {
+    "id": "54",
+    "brand": "HSBC",
+    "category": "Finance",
+    "headline": "HSBC expands packaging operations in Berlin",
+    "summary": "The company says the move reflects shifting demand and positions HSBC for the next phase of growth in its finance business.",
+    "source": "Sample Wire",
+    "url": "https://example.com/news/hsbc-54",
+    "timestamp": "2026-09-23T23:17:00Z"
+  }
+]
