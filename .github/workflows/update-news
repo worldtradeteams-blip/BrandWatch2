@@ -1,0 +1,31 @@
+name: Update news data
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes (GitHub Actions doesn't guarantee sub-15-min precision)
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch and write stories.json
+        run: python3 scripts/fetch_news.py --out data/stories.json
+
+      - name: Commit changes
+        run: |
+          git config user.name "brandswatch-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/stories.json
+          git diff --staged --quiet || git commit -m "Daily news update"
+          git push
